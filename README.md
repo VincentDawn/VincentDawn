@@ -16,8 +16,8 @@ I'm a big advocate for personal development, both my own and others. I frequentl
 - **AZ-305:** Designing Microsoft Azure Infrastructure Solutions (ETA August)
 
 ### 🔍 Current Focus:
-- 🚀 I’m currently working on portfolio page and various portfolio projects
-- 📚 I’m currently learning AZ-305, GitHub Actions certification, and .NET MAUI
+- I’m currently working on portfolio page and various portfolio projects
+- I’m currently learning AZ-305, GitHub Actions certification, and .NET MAUI
 
 ### 📬 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/mark-young-526963185/)
