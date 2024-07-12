@@ -11,9 +11,10 @@ I'm a big advocate for personal development, both my own and others. I frequentl
 - **Tools:** Git, CI/CD, OAuth, Azure AD B2C
 
 ### 📜 Certifications:
-- **AZ-900:** Microsoft Azure Fundamentals
-- **AZ-204:** Azure Developer Associate
-- **AZ-305:** Designing Microsoft Azure Infrastructure Solutions (ETA August)
+- **[AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/MarkYoung-0118/23A7953649B08E11?sharingId=4104A57864890531)**
+- **[AZ-204: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/MarkYoung-0118/BB0638BC3712A7BF?sharingId=4104A57864890531)**
+- **AZ-305: Designing Microsoft Azure Infrastructure Solutions (ETA August)**
+- **[Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc04e5c070-3ba1-42b2-a475-7ea4960d7e5a/foundational-c-sharp-with-microsoft)**
 
 ### 🔍 Current Focus:
 - I’m currently working on portfolio page and various portfolio projects
