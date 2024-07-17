@@ -17,7 +17,10 @@ I'm a big advocate for personal development, both my own and others. I frequentl
 - **[Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc04e5c070-3ba1-42b2-a475-7ea4960d7e5a/foundational-c-sharp-with-microsoft)**
 
 ### 🔍 Current Focus:
-- I’m currently working on portfolio page and various portfolio projects
+- I’m currently working on
+  - A portfolio page in React
+  - An end-to-end encrypted instant messaging application in MAUI
+  - A travel and booking application using MAUI, Stripe, and Azure OpenAI
 - I’m currently learning AZ-305, GitHub Actions certification, and .NET MAUI
 
 ### 📬 How to Reach Me:
